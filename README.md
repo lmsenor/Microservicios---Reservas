@@ -3,7 +3,7 @@ Aplicación para realizar reserva de viajes, con opción de elegir hotel y vuelo
 
 Tecnología utilizada: Arquitectura distribuida con microservicios. Lenguaje programación: JAVA 8 Frameworks: Spring Boot, Spring Cloud BBDD SQL Workbench: MySql Servidor: Tomcat 9
 
-NSTRUCCIONES DE USO: 
+INSTRUCCIONES DE USO: 
  1. Importar la Base de Datos MySql con el fichero "viajes.sql".
  2. Arrancar el servicio de Eureka Server para poder descubrir el resto de servicios.
  3. Una vez desplegado, arrancar el resto de servicios (Hoteles, Vuelos, Reservas).
