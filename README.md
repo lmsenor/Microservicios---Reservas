@@ -7,7 +7,7 @@ INSTRUCCIONES DE USO:
  1. Importar la Base de Datos MySql con el fichero "viajes.sql".
  2. Arrancar el servicio de Eureka Server para poder descubrir el resto de servicios.
  3. Una vez desplegado, arrancar el resto de servicios (Hoteles, Vuelos, Reservas).
- 4. Ir a "Cliente_viajes/WebContent" y abrir "reservas.html" para ir a la página de reservas hechas o "nuevareserva.html" para ir a la página de creación.
+ 4. Abrir "reservas.html" para ir a la página de reservas hechas o "nuevareserva.html" para ir a la página de creación.
 
 MICROSERVICIO SERVIDOR EUREKA http://localhost:8761/ Eureka Server, Servidor que registra los servicios y permite acceder a ellos sin conocer su ubicación real y puerto.
 
